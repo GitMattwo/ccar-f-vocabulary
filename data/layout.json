@@ -1,0 +1,35 @@
+{
+  "PRONUNCIATION_GUIDE": {
+    "intro": [
+      "主強勢 ˈ（赤）と副強勢 ˌ（青）を、対応する母音の真上に重ねる。印は、その母音を含む音節の強さを示す。発音は原則アメリカ英語の目安。UKは英国発音。",
+      "二重母音は2文字のまとまりの中央に置く。標準IPAの音節前の印を上へ移した、この単語帳の学習用表記。"
+    ],
+    "examples": [
+      [
+        "require",
+        "/rɪˈkwaɪər/",
+        "後半の二重母音の真上に主強勢。"
+      ],
+      [
+        "optional",
+        "/ˈɑpʃənəl/",
+        "最初の母音の真上に主強勢。"
+      ],
+      [
+        "validation",
+        "/ˌvæləˈdeɪʃən/",
+        "最初の母音に副強勢、後半の二重母音に主強勢。"
+      ]
+    ],
+    "note": "単音節語では通常、強勢記号を省く。句のIPAは語の強勢を示し、文全体の抑揚は固定しない。長い表現は主要語のみ、コード識別子は原文の綴りを示す。",
+    "reference": [
+      "Cambridge Dictionary: Pronunciation symbols",
+      "https://dictionary.cambridge.org/help/phonetics.html"
+    ]
+  },
+  "COMPACT_TOC": true,
+  "SEPARATE_TOC": false,
+  "HIGHLIGHT_STRESS": true,
+  "OVERHEAD_STRESS": true,
+  "PLAIN_TEXT_MARKDOWN": true
+}

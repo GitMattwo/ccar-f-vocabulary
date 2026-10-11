@@ -1,0 +1,172 @@
+{
+  "font": "DejaVu Sans",
+  "regular_sha256": "7da195a74c55bef988d0d48f9508bd5d849425c1770dba5d7bfc6ce9ed848954",
+  "bold_sha256": "e6476c1b80502924294eed40894c5b18e06c181444ca953e5334262df9c27724",
+  "units": "em",
+  "method": "Ink bounding box at 2000 px per em; FreeType/Pillow; coordinates relative to glyph origin/baseline",
+  "nuclei": {
+    "aɪ": {
+      "advance": 0.9845,
+      "left": 0.06,
+      "right": 0.9275,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "eɪ": {
+      "advance": 0.9865,
+      "left": 0.055,
+      "right": 0.9295,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "ɔɪ": {
+      "advance": 0.921,
+      "left": 0.062,
+      "right": 0.864,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "oʊ": {
+      "advance": 1.2295,
+      "left": 0.055,
+      "right": 1.1765,
+      "bottom": -0.0145,
+      "top": 0.56
+    },
+    "aʊ": {
+      "advance": 1.2305,
+      "left": 0.06,
+      "right": 1.1775,
+      "bottom": -0.0145,
+      "top": 0.56
+    },
+    "a": {
+      "advance": 0.613,
+      "left": 0.06,
+      "right": 0.522,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "ɑ": {
+      "advance": 0.635,
+      "left": 0.055,
+      "right": 0.544,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "æ": {
+      "advance": 0.982,
+      "left": 0.06,
+      "right": 0.9295,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "ɛ": {
+      "advance": 0.5405,
+      "left": 0.0645,
+      "right": 0.473,
+      "bottom": -0.014,
+      "top": 0.5605
+    },
+    "ɪ": {
+      "advance": 0.3715,
+      "left": 0.0565,
+      "right": 0.3145,
+      "bottom": 0.0,
+      "top": 0.547
+    },
+    "i": {
+      "advance": 0.278,
+      "left": 0.094,
+      "right": 0.1845,
+      "bottom": 0.0,
+      "top": 0.76
+    },
+    "ʊ": {
+      "advance": 0.6175,
+      "left": 0.055,
+      "right": 0.5645,
+      "bottom": -0.0145,
+      "top": 0.547
+    },
+    "u": {
+      "advance": 0.634,
+      "left": 0.0845,
+      "right": 0.543,
+      "bottom": -0.014,
+      "top": 0.547
+    },
+    "ə": {
+      "advance": 0.615,
+      "left": 0.055,
+      "right": 0.5625,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "ʌ": {
+      "advance": 0.592,
+      "left": 0.0295,
+      "right": 0.562,
+      "bottom": 0.0,
+      "top": 0.547
+    },
+    "ɔ": {
+      "advance": 0.5495,
+      "left": 0.062,
+      "right": 0.495,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "ɜ": {
+      "advance": 0.5315,
+      "left": 0.0645,
+      "right": 0.473,
+      "bottom": -0.014,
+      "top": 0.5605
+    },
+    "ɚ": {
+      "advance": 0.8195,
+      "left": 0.0605,
+      "right": 0.8145,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "ɝ": {
+      "advance": 0.7755,
+      "left": 0.0645,
+      "right": 0.771,
+      "bottom": -0.014,
+      "top": 0.5605
+    },
+    "e": {
+      "advance": 0.615,
+      "left": 0.055,
+      "right": 0.5625,
+      "bottom": -0.014,
+      "top": 0.56
+    },
+    "o": {
+      "advance": 0.612,
+      "left": 0.055,
+      "right": 0.5575,
+      "bottom": -0.014,
+      "top": 0.56
+    }
+  },
+  "marks": {
+    "ˈ": {
+      "advance": 0.306,
+      "left": 0.1065,
+      "right": 0.1995,
+      "bottom": 0.4875,
+      "top": 0.759
+    },
+    "ˌ": {
+      "advance": 0.306,
+      "left": 0.1065,
+      "right": 0.1995,
+      "bottom": -0.081,
+      "top": 0.1905
+    }
+  }
+}
